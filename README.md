@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Flutter developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
-- 🔭 I’m currently working on **Fluttr Development**
+- 🔭 I’m currently working on **Flutter Development**
 
 - 🌱 I’m currently learning **C Language**
 
