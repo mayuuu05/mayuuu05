@@ -5,9 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter Development**
 
-- 🌱 I’m currently learning **C Language**
-
-- 👯 I’m looking to collaborate on **Flutter Development**
+- 🌱 I’m currently learning **C++**
 
 - 🤝 I’m looking for help with **Best Teachers**
 
@@ -19,7 +17,6 @@
 
 - ⚡ Fun fact **Everybody think I am Funny 😅**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
