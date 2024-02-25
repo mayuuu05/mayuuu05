@@ -1,7 +1,8 @@
 
 <h1 align="center">Hey! I'm Mayuri Purohit </h1>
 <h2 align="center">A passionate Flutter developer from India</h2>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/374987f773148e46b1851b9e3bc4bf71b182562dd002620ef3e4263cb3997130/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966">
+<img align="right" alt="Coding" width="400" src="![images (3)](https://github.com/mayuuu05/mayuuu05/assets/149376263/52597971-1614-43db-845c-632a1e5f3d1e)
+">
 
 - 🔭 I’m currently working on **Flutter Development**
 
