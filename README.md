@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Flutter Development**
 
-- 🌱 I’m currently learning **C++**
+- 🌱 I’m currently learning **Dart**
 
 - 🤝 I’m looking for help with **Best Teachers**
 
