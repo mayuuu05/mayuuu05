@@ -2,6 +2,7 @@
 <h1 align="center">Hey! I'm Mayuri Purohit </h1>
 <h2 align="center">A passionate Flutter developer from India</h2>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:679/1*qdAW1TjCN57h1lbuuzvchg.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=durgamewada&label=Profile%20views&color=0e75b6&style=flat" alt="mayuuu05" /> </p>
 
 - 🔭 I’m currently working on **Flutter Development**
 
